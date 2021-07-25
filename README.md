@@ -1,8 +1,6 @@
-# se3050---uee-2021s2_reg_we_10
-se3050---uee-2021s2_reg_we_10 created by GitHub Classroom
 Group ID : 2021S2_REG_WE_10 
 
-Member 01(Leader) 
+Member 01(Leader) ("\n")
 IT Number : IT19138732
 Name : M.G.D.D.B. Ekanayaka
 
